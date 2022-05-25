@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 -->
 
-![SecRedTeaming GitHub stats](https://github-readme-stats.vercel.app/api?username=SecRedTeaming&show_icons=true&theme=dracula&count_private=true)
+![SecRedTeaming GitHub stats](https://github-readme-stats.vercel.app/api?username=SecRedTeaming&show_icons=true&theme=vue-dark&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
